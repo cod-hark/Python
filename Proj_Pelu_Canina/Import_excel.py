@@ -4,7 +4,8 @@ from datetime import datetime
 import re
 
 # === Configuración ===
-excel_path = "D:\nerea/Base de datos Lana Estilismo Canino.xlsx"
+excel_path = r"D:\nerea\Base de datos Lana Estilismo Canino.xlsx"
+
 db_path = "peluqueria_canina.db"
 
 # === Conectar a la base de datos SQLite ===
